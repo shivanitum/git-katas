@@ -1,0 +1,2 @@
+Initial content of the file
+some changes I made and staged
